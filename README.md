@@ -1,4 +1,4 @@
 # ReactReduxTodo
 Hello world react/redux app
 
-![Imgur](https://i.imgur.com/KXfnDxb.gifv)
+![GIF](https://thumbs.gfycat.com/ElasticIndolentAlbatross-size_restricted.gif)
