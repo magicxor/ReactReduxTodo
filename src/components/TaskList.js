@@ -26,9 +26,9 @@ const TaskListRaw = props => (
     <table className="table table-hover table-striped">
       <thead>
         <tr>
-          <th scope="col-md-1">ID</th>
-          <th scope="col-md-11">Description</th>
-          <th scope="col-md-11">#</th>
+          <th scope="col-md-2">ID</th>
+          <th scope="col-md-5">Description</th>
+          <th scope="col-md-5">#</th>
         </tr>
       </thead>
       <tbody>
