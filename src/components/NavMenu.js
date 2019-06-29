@@ -1,7 +1,5 @@
 ﻿import React from 'react';
-import { Link } from 'react-router-dom';
-import { Nav, Navbar, NavDropdown, NavItem } from 'react-bootstrap';
-import { LinkContainer } from 'react-router-bootstrap';
+import { Nav, Navbar } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export const NavMenu = props => (
