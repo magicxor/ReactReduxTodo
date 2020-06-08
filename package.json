@@ -9,7 +9,8 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "bootstrap": "^4.4.1",
     "connected-react-router": "^6.8.0",
-    "jquery": "^3.4.1",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
@@ -22,6 +23,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "rimraf": "^2.7.1",
+    "seamless-immutable": "^7.1.4",
     "typescript": "^3.8.3"
   },
   "scripts": {
